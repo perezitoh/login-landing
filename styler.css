@@ -1,0 +1,37 @@
+html {
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+
+}
+
+body {
+    margin: 100px;
+    width: 400px;
+    border: 2px solid rgba(25, 10, 233, 0.432);
+  background-color: rgba(89, 167, 231, 0.466);
+  padding-top: 40px;
+  text-align: center;
+}
+
+.logo {
+  width: 220px;
+  border-radius: 50px;
+}
+
+h1 {
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.boton {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 15px;
+  width: auto;
+  height: auto;
+  border-radius: 40%;
+  
+}
+.login {
+  font-size: 20px;
+}
